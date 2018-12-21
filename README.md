@@ -15,3 +15,4 @@ $ perl -Ilib bin/foo bar --help     # help of "foo bar" command
 
 You can install this demo as system-wide `foo` command using [Dist::Zilla](https://metacpan.org/pod/Dist::Zilla), 
 just create [dist.ini](http://dzil.org/tutorial/new-dist.html) file
+

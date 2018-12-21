@@ -1,6 +1,6 @@
 # app_cmd_demo
 
-Demo of App::Cmd module usage
+Demo of [App::Cmd](https://metacpan.org/pod/App::Cmd) module usage
 
 Local running
 
